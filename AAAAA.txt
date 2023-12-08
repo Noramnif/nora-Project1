@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 
+=======
+poopooppo
+>>>>>>> 5351b16300b667a6d7b39fc73bffb5a9fb227fc5
 aaa
 abrar
